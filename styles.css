@@ -1,0 +1,98 @@
+
+body {
+  font-family: 'Karla', sans-serif;
+  color: hsl(204, 43%, 93%);
+  background-color: hsl(204, 43%, 93%);
+}
+
+h1 {
+  margin-right: 40%;
+}
+
+h3 {
+  color: hsl(179, 62%, 43%);
+}
+
+.container {
+  margin-top: 10%;
+  align-items: stretch;
+  background-color: white;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.main {
+  padding: 4% 4% 2%;
+}
+
+.one {
+  color: hsl(71, 73%, 54%);
+}
+
+.col-md-6 {
+  padding: 5%;
+}
+
+.first {
+  background-color: hsl(179, 62%, 40%);
+}
+
+.second {
+  background-color: hsl(179, 62%, 43%);
+}
+
+.section {
+  width: 100%;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.dollar {
+  font-size: 30px;
+}
+
+.unique {
+  margin-bottom: 0;
+  padding-top: 10px;
+}
+
+.text-one {
+  color: hsl(218, 22%, 67%);
+  margin-right: 20%;
+  padding: 2% 0;
+}
+
+.text-two {
+  opacity: 0.5;
+}
+
+.text-three {
+  opacity: 0.8;
+}
+
+.attribution {
+  color: black;
+  padding: 5%;
+  text-align: center;
+}
+
+/* Button */
+
+.myButton {
+
+	background-color:hsl(71, 73%, 54%);
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:13px 100px;
+	text-decoration:none;
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
